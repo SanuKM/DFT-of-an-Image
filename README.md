@@ -2,6 +2,7 @@
 Python Prgogram to find the DFT of an Image
 
 Required packages/ library : Open CV, Numpy, matplotlib.
+
 Program Str. 
 1. import library
 2. get the input image and covert to gray scale 
